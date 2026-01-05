@@ -230,10 +230,11 @@ main img {
 /* sections */
 main > .section {
   margin: 40px 0;
+  max-width: 1400px;
 }
 
 main > .section > div {
-  max-width: 1200px;
+  max-width: 1400px;
   margin: auto;
   padding: 0 24px;
 }
